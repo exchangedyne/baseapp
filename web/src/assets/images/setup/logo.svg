@@ -10,9 +10,9 @@
    version="1.1"
    id="svg2"
    xml:space="preserve"
-   width="4000"
-   height="2666.6667"
-   viewBox="0 0 4000 2666.6667"
+   width="350"
+   height="64"
+   viewBox="0 0 350 64"
    sodipodi:docname="Printable resulation file.ai"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -30,8 +30,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="350"
+     inkscape:window-height="64"
      id="namedview4" /><g
      id="g10"
      inkscape:groupmode="layer"
