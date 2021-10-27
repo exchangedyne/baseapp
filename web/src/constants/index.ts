@@ -2,7 +2,7 @@ import { CanCan } from "src/containers";
 import { AbilitiesInterface, Wallet } from "src/modules";
 import { DropdownElem } from "../components/Order";
 
-export const PG_TITLE_PREFIX = "Dyne Coin";
+export const PG_TITLE_PREFIX = "Dyne Crypto";
 
 export const pgRoutes = (isLoggedIn: boolean, abilities: AbilitiesInterface, isLight?: boolean): string[][] => {
     const routes = [
