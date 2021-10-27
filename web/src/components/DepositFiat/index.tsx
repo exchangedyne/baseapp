@@ -18,15 +18,19 @@ export interface DepositFiatProps {
 const bankData = uid => [
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.bankName" />,
-        value: 'Diamant Bank',
+        value: 'ICICI Bank',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountNumber" />,
-        value: '10120212',
+        value: '112105001210',
+    },
+    {
+        key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.IFSCcode" />,
+        value: 'ICIC0001121',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.accountName" />,
-        value: 'name',
+        value: 'Maxwell EMR Research Center PVT LTD',
     },
     {
         key: <FormattedMessage id="page.body.wallets.tabs.deposit.fiat.phoneNumber" />,
